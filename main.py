@@ -8,7 +8,7 @@ def main():
     st.write("Pilih file Excel untuk data OSS:")
     uploaded_file_data1 = st.file_uploader("Upload File", type=["xlsx", "xls"])
 
-    st.write("Pilih file Excel untuk ListKodePOS:")
+    st.write("Pilih file Excel untuk List Kode POS:")
     uploaded_file_listkodepos = st.file_uploader("Upload File", type=["xlsx", "xls"], key="listkodepos")
 
     if uploaded_file_data1 is not None and uploaded_file_listkodepos is not None:
