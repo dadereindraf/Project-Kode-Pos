@@ -1,7 +1,7 @@
-# Project Name
+# KODE POS
 
 ## Deskripsi
-Deskripsi proyek Anda.
+Mengisi Kode Pos Otomatis
 
 ## Cara Menjalankan
 1. Clone repositori: `git clone https://github.com/username/repo.git`
