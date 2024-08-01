@@ -4,4 +4,4 @@
 Mengisi Kode Pos Otomatis
 
 ## Cara Menjalankan
-Demo : `https://kodeposbpjstk.streamlit.app/`
+Demo : https://kodeposbpjstk.streamlit.app/
